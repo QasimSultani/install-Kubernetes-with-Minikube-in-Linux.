@@ -41,5 +41,5 @@
 <h2>//If getting Cri-tool error</h2>
 • <code>wget https://github.com/kubernetes-sigs/cri-tools/releases/download/v1.25.0/crictl-v1.25.0-linux-amd64.tar.gz</code><br>
 • <code>sudo tar zxvf crictl-v1.25.0-linux-amd64.tar.gz -C /usr/local/bin</code><br>
-•	<code>minikube status</code><br>
+• <code>minikube status</code><br>
 
