@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<h1>Setting Up Minikube on Linux</h1>
+	<h1>Setting Up Kubernetes on Minikube in Linux.</h1>
 	
 <h2>Install Docker</h2>
 <p>Run the following command to install Docker:</p>
@@ -43,3 +43,5 @@
 • <code>sudo tar zxvf crictl-v1.25.0-linux-amd64.tar.gz -C /usr/local/bin</code><br>
 • <code>minikube status</code><br>
 
+<h2>Here is link of my profile if you face any problem DM here!!</h2>
+https://www.linkedin.com/in/muhammad-qasim-sultani/
