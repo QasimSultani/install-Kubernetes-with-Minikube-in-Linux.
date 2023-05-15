@@ -5,15 +5,15 @@
 	
 <h2>Install Docker</h2>
 <p>Run the following command to install Docker:</p>
-<code>sudo apt update &amp;&amp; apt -y install docker.io</code>
+<code>• sudo apt update &amp;&amp; apt -y install docker.io</code>
 
 <h2>Install kubectl</h2>
 <p>Run the following commands to install kubectl:</p>
-<code>curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl &amp;&amp; chmod +x ./kubectl &amp;&amp; sudo mv ./kubectl /usr/local/bin/kubectl</code>
+<code>• curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl &amp;&amp; chmod +x ./kubectl &amp;&amp; sudo mv ./kubectl /usr/local/bin/kubectl</code>
 
 <h2>Install Minikube</h2>
 <p>Run the following commands to install Minikube:</p>
-<code>curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 &amp;&amp; chmod +x minikube &amp;&amp; sudo mv minikube /usr/local/bin/</code>
+<code>• curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 &amp;&amp; chmod +x minikube &amp;&amp; sudo mv minikube /usr/local/bin/</code>
 
 <h2>Start Minikube</h2>
 <p>Run the following commands to start Minikube:</p>
